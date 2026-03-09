@@ -1,4 +1,3 @@
-Made by Riku Karvinen
 
 # Database Design Report
 
